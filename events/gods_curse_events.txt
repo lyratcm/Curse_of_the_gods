@@ -1,0 +1,13 @@
+namespace = gods_curse
+
+country_event = {
+	id = gods_curse.1
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		
+	}
+	immediate = {
+		
+	}
+}
